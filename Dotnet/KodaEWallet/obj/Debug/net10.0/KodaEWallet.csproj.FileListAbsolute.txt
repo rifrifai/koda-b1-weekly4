@@ -1,0 +1,14 @@
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/bin/Debug/net10.0/KodaEWallet
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/bin/Debug/net10.0/KodaEWallet.deps.json
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/bin/Debug/net10.0/KodaEWallet.runtimeconfig.json
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/bin/Debug/net10.0/KodaEWallet.dll
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/bin/Debug/net10.0/KodaEWallet.pdb
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/KodaEWallet.GeneratedMSBuildEditorConfig.editorconfig
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/KodaEWallet.AssemblyInfoInputs.cache
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/KodaEWallet.AssemblyInfo.cs
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/KodaEWallet.csproj.CoreCompileInputs.cache
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/KodaEWallet.dll
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/refint/KodaEWallet.dll
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/KodaEWallet.pdb
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/KodaEWallet.genruntimeconfig.cache
+/home/rifdev/Downloads/koda/weekly4/Dotnet/KodaEWallet/obj/Debug/net10.0/ref/KodaEWallet.dll
